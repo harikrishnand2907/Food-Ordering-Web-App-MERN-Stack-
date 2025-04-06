@@ -1,13 +1,11 @@
 # Food Ordering Web App (MERN Stack)
 
 
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [ER Diagram](#er-diagram)
-- [Screenshots](#screenshots)
 
 ## Introduction
 This full-stack food ordering web application leverages the MERN stack (MongoDB, Express, React, Node.js) to provide a seamless online food ordering experience. It includes:
